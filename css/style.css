@@ -1,0 +1,40 @@
+h1{
+    color : red;
+}
+
+
+h1{
+color : blue;
+
+}
+
+body{
+background-color: green;
+
+}
+.FondoRojo{
+
+background-color: red;
+color: black;
+
+}
+
+.container{
+
+    height: 50vh;
+    margin: 5%;
+
+    flex-direction: column;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+
+
+
+
+
