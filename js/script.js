@@ -93,6 +93,6 @@ CuerpoEntero.classList.toggle("FondoRojo")
 
 }
 
-CuerpoEntero.addEventListener("click" , clickSobreBoton);
+cambiarColor.addEventListener("click" , clickSobreBoton);
 
 
